@@ -1,8 +1,10 @@
 ![Logo](https://github.com/shivam2003sy/AIC--backend/blob/master/images/logo.jpg)
 
-# COMBINED FILE OF FRONTEND AND  BACKEND  
+# combined directories of FRONTEND and  BACKEND can be installed independently visit
+
 [frontend](https://github.com/shivam2003sy/AIC--backend)
 [BACKEND](https://github.com/shivam2003sy/AIC-BACKEND)
+this is created to upload file to ibm hackathon sourcecode 
 # AIC - ambulance in cloud
 
 ## Objective:
@@ -57,8 +59,8 @@ Clone this repo in your local computer,
 
 Go to your desired location and open terminal there
 ```bash
-  git clone https://github.com/shivam2003sy/AIC---FRONTEND
-  cd AIC--FRONTEND
+  git clone https://github.com/shivam2003sy/AIC
+  cd AIC--backend-master
 ```
 After that
 ```bash
@@ -68,7 +70,11 @@ To run the application
 ```bash
   npm start
 ```
-To install full application visit  [Backend](https://github.com/shivam2003sy/AIC---backend) also 
+now got to client folder 
+```bash
+  npm install
+  npm start
+```
     
 ## Environment Variables
 
